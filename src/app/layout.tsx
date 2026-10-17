@@ -21,7 +21,7 @@ const mono = IBM_Plex_Mono({
   display: "swap",
 });
 
-const siteUrl = "https://mustafa-abbas-portfolio.vercel.app";
+const siteUrl = "https://mustafa-portfolio-suwm.vercel.app";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
